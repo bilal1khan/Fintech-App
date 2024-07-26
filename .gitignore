@@ -1,0 +1,16 @@
+# Node.js
+/fintech backend/node_modules
+
+# React
+/fintech/node_modules
+/fintech/build
+
+# Logs
+logs
+*.log
+
+# OS Files
+.DS_Store
+
+# Environment Files
+.env
